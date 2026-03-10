@@ -1,0 +1,13 @@
+[book]
+title = "Postgres Is Enough"
+authors = []
+description = "A love letter to PostgreSQL — exploring how far you can push it as a relational DB, document store, job queue, key-value store, vector database, time-series store, and beyond."
+src = "src"
+language = "en"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/cloudstreet-dev/Postgres-is-Enough"
+git-repository-icon = "fa-github"
